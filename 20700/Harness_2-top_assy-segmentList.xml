@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='8'>
+        <properties>
+            <Name value='CPoint1@plug-5pindin-1@Harness_2-top_assy:CPoint1@plug-5pindin-2@Harness_2-top_assy'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.702459'/>
+            <AdditionalLength value='0.722459'/>
+            <FromLocation value='-0.457835,0.107950,-0.406400'/>
+            <ToLocation value='0.203835,0.044450,-0.203200'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
